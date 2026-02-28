@@ -1,4 +1,4 @@
-# 🛡️ Miguel Ángel Lofredo | Entusiasta de Red Team & Pentesting
+# 🛡️ Miguel Ángel Lofredo | Cybersecurity Researcher
 
 Bem-vindo ao meu espaço de documentação e segurança ofensiva. Sou um apaixonado por cibersegurança com foco especializado em **Pentesting de Infraestrutura (AD)** e **Segurança Web**. 
 

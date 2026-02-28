@@ -5,15 +5,34 @@
 </style>
 <div id="google_translate_element" style="text-align: right; padding: 10px;"></div>
 
+<div align="right" style="padding: 20px;">
+  <a href="#" onclick="doGTranslate('pt|pt');return false;" title="Português" style="text-decoration:none; font-size:24px;">🇧🇷</a> 
+  <a href="#" onclick="doGTranslate('pt|es');return false;" title="Español" style="text-decoration:none; font-size:24px;">&nbsp;🇦🇷</a> 
+  <a href="#" onclick="doGTranslate('pt|en');return false;" title="English" style="text-decoration:none; font-size:24px;">&nbsp;🇺🇸</a>
+</div>
+
+<div id="google_translate_element" style="display:none"></div>
 <script type="text/javascript">
 function googleTranslateElementInit() {
-  new google.translate.TranslateElement({
-    pageLanguage: 'pt', 
-    includedLanguages: 'es,en,pt', 
-    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-  }, 'google_translate_element');
+  new google.translate.TranslateElement({pageLanguage: 'pt', autoDisplay: false}, 'google_translate_element');
+}
+function doGTranslate(lang_pair) {
+  if(lang_pair.value) lang_pair=lang_pair.value;
+  if(lang_pair=='') return;
+  var lang=lang_pair.split('|')[1];
+  var teCombo = document.querySelector('.goog-te-combo');
+  if(teCombo == null || teCombo.value == null) {
+    setTimeout(function(){doGTranslate(lang_pair)}, 500);
+  } else {
+    teCombo.value = lang;
+    const event = new Event('change', { bubbles: true });
+    teCombo.dispatchEvent(event);
+  }
 }
 </script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<hr style="border: 0.5px solid #333;">
 
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 

@@ -1,3 +1,10 @@
+<style>
+  header { display: none !important; }
+  .wrapper { margin-top: 0px !important; padding-top: 20px !important; }
+  section { padding-top: 0px !important; }
+</style>
+
+
 # 🛡️ Miguel Ángel Lofredo | Cybersecurity Researcher
 
 Bem-vindo ao meu espaço de documentação e segurança ofensiva. Sou um apaixonado por cibersegurança com foco especializado em **Infraestrutura (AD)**,**Web** e **Cloud** 
@@ -16,6 +23,8 @@ Atualmente, dedico-me à investigação de ameaças e à construção de ambient
 
 ### 🎓 Certificações em Destaque
 Possuo certificações que validam meus conhecimentos em operações de Red Team, redes e aplicações web:
+
+
 <img width="300" height="300" alt="e3abd5d7-15b6-4319-bdff-d97390af58ed" src="https://github.com/user-attachments/assets/5ca91d24-1fb8-48fc-8e2c-c73b8a0a3243" />
 <img width="300" height="300" alt="hack-the-box-certified-penetration-testing-specialist-htb-cpts" src="https://github.com/user-attachments/assets/2fdabda9-b448-440a-91ab-ed826c8aecb2" />
 <img width="300" height="300" alt="hack-the-box-certified-web-exploitation-specialist-" src="https://github.com/user-attachments/assets/9b0984cd-8a79-4b25-ba15-90416290eb75" />

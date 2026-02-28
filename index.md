@@ -1,20 +1,41 @@
 <style>
-  /* Oculta el encabezado del tema Hacker (./ y botón GitHub) */
+  /* 1. Oculta el encabezado del tema (./ y botón GitHub) */
   header { display: none !important; }
   
-  /* Baja el contenido para que no esté pegado arriba */
+  /* 2. Baja el contenido para que no esté pegado arriba */
   .wrapper { 
     margin-top: 0px !important; 
     padding-top: 50px !important; 
   }
 
-  /* OCULTA EL SELECTOR DE GOOGLE Y LA BARRA DE TRADUCCIÓN */
-  .goog-te-banner-frame.skiptranslate, .goog-te-gadget-icon { display: none !important; }
-  body { top: 0px !important; }
-  .goog-te-gadget-simple { background-color: transparent !important; border: none !important; }
-  .goog-te-gadget-simple span { display: none !important; }
-  #google_translate_element { display: none !important; }
-  .goog-te-spinner-pos { display: none !important; }
+  /* 3. ELIMINA LA BARRA SUPERIOR DE GOOGLE (La que aparece al traducir) */
+  .goog-te-banner-frame.skiptranslate {
+    display: none !important;
+  }
+  
+  body {
+    top: 0px !important;
+  }
+
+  /* 4. ELIMINA EL WIDGET "SELECT LANGUAGE" Y EL "POWERED BY" */
+  #google_translate_element, 
+  .goog-te-gadget, 
+  .goog-te-gadget-simple, 
+  .goog-te-menu-value, 
+  .goog-te-menu-frame {
+    display: none !important;
+  }
+
+  /* 5. ELIMINA EL TOOLTIP (El cuadro que sale al pasar el mouse por el texto traducido) */
+  .goog-text-highlight {
+    background: none !important;
+    box-shadow: none !important;
+  }
+  
+  #goog-gt-tt, .goog-te-balloon-frame {
+    display: none !important;
+    visibility: hidden !important;
+  }
 </style>
 
 <div align="right" style="padding-right: 20px;">

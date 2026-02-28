@@ -114,7 +114,7 @@ Possuo certificações que validam meus conhecimentos em operações de Red Team
 ---
 
 ### 🛠️ Formação Contínua
-Minha metodologia de aprendizado baseia-se na prática constante nas plataformas mais exigentes do setor:
+Minha metodologia de aprendizado baseia-se na prática constante nas plataformas mais exigentes do setor tanto de praticas com maquinas, como de estudos e informacao:
 \
     **[HackTheBox](https://www.hackthebox.com/)** | 
     **[TryHackMe](tryhackme.com)** | 
@@ -123,7 +123,14 @@ Minha metodologia de aprendizado baseia-se na prática constante nas plataformas
     **[TCM Security](https://academy.tcm-sec.com/)** | 
     **[INE](https://ine.com/)** | 
     **[Pwn College](https://pwn.college/)** | 
-    **[Pwnedlabs](https://pwnedlabs.io/)**
+    **[Pwnedlabs](https://pwnedlabs.io/)** | 
+    **[HackMyVM](https://hackmyvm.eu/)** | 
+    **[TheHackersLabs](thehackerslabs.com)** | 
+    **[Vulnyx](vulnyx.com)** | 
+    **[DockerLabs](https://dockerlabs.es)** | 
+    **[Vulnhub](https://www.vulnhub.com/)** | 
+    **[HackTricks](https://book.hacktricks.wiki/en/index.html)**
+    **[The Hacker News](https://thehackernews.com/)**
 
 ---
 

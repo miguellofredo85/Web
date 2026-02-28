@@ -1,6 +1,6 @@
 <style>
   header { display: none !important; }
-  .wrapper { margin-top: 0px !important; padding-top: 100px !important; }
+  .wrapper { margin-top: 0px !important; padding-top: 0px !important; }
   section { padding-top: 0px !important; }
 </style>
 <div id="google_translate_element" style="text-align: right; padding: 10px;"></div>

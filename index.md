@@ -113,20 +113,18 @@ Possuo certificações que validam meus conhecimentos em operações de Red Team
 
 ---
 
-### 🛠️ Labs & Formação Contínua
+### 🛠️ Formação Contínua
 Minha metodologia de aprendizado baseia-se na prática constante nas plataformas mais exigentes do setor:
+\
+    **[HackTheBox](https://www.hackthebox.com/)** | 
+    **[TryHackMe](tryhackme.com)** | 
+    **[Zero Point Security](https://www.zeropointsecurity.co.uk/)** | 
+    **[PortSwigger Academy](https://portswigger.net/web-security/learning-paths)** | 
+    **[TCM Security](https://academy.tcm-sec.com/)** | 
+    **[INE](https://ine.com/)** | 
+    **[Pwn College](https://pwn.college/)** | 
+    **[Pwnedlabs](https://pwnedlabs.io/)**
 
-* **Infraestrutura:** Criação de laboratórios próprios de AD para simular ataques, escalada de privilégios, movimentação lateral.
-* **Plataformas que acompanham meus estudos:** *
-    * **[HackTheBox](https://www.hackthebox.com/)**
-    * **[TryHackMe](tryhackme.com)**
-    * **[Zero Point Security](https://www.zeropointsecurity.co.uk/)**
-    * **[PortSwigger Academy](https://portswigger.net/web-security/learning-paths))**
-    * **[TCM Security](https://academy.tcm-sec.com/)**
-    * **[INE](https://ine.com/)** 
-    * **[Pwn College](https://pwn.college/)**
-    * **[Pwnedlabs](https://pwnedlabs.io/)**
-      
 ---
 
 ### 📈 Objetivos

@@ -1,6 +1,6 @@
 <style>
   header { display: none !important; }
-  .wrapper { margin-top: 0px !important; padding-top: 20px !important; }
+  .wrapper { margin-top: 0px !important; padding-top: 100px !important; }
   section { padding-top: 0px !important; }
 </style>
 
@@ -22,7 +22,7 @@ Atualmente, dedico-me à investigação de ameaças e à construção de ambient
 ---
 
 ### 🎓 Certificações em Destaque
-Possuo certificações que validam meus conhecimentos em operações de Red Team, redes e aplicações web:
+Possuo certificações que validam meus conhecimentos em operações de Red Team, Pentesting infra e web:
 
 
 <img width="300" height="300" alt="e3abd5d7-15b6-4319-bdff-d97390af58ed" src="https://github.com/user-attachments/assets/5ca91d24-1fb8-48fc-8e2c-c73b8a0a3243" />

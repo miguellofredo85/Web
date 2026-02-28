@@ -1,14 +1,26 @@
 <style>
+  /* Oculta el encabezado del tema Hacker (./ y botón GitHub) */
   header { display: none !important; }
-  .wrapper { margin-top: 0px !important; padding-top: 0px !important; }
-  section { padding-top: 0px !important; }
-</style>
-<div id="google_translate_element" style="text-align: right; padding: 10px;"></div>
+  
+  /* Baja el contenido para que no esté pegado arriba */
+  .wrapper { 
+    margin-top: 0px !important; 
+    padding-top: 50px !important; 
+  }
 
-<div align="right" style="padding: 20px;">
-  <a href="#" onclick="doGTranslate('pt|pt');return false;" title="Português" style="text-decoration:none; font-size:24px;">🇧🇷</a> 
-  <a href="#" onclick="doGTranslate('pt|es');return false;" title="Español" style="text-decoration:none; font-size:24px;">&nbsp;🇦🇷</a> 
-  <a href="#" onclick="doGTranslate('pt|en');return false;" title="English" style="text-decoration:none; font-size:24px;">&nbsp;🇺🇸</a>
+  /* OCULTA EL SELECTOR DE GOOGLE Y LA BARRA DE TRADUCCIÓN */
+  .goog-te-banner-frame.skiptranslate, .goog-te-gadget-icon { display: none !important; }
+  body { top: 0px !important; }
+  .goog-te-gadget-simple { background-color: transparent !important; border: none !important; }
+  .goog-te-gadget-simple span { display: none !important; }
+  #google_translate_element { display: none !important; }
+  .goog-te-spinner-pos { display: none !important; }
+</style>
+
+<div align="right" style="padding-right: 20px;">
+  <a href="#" onclick="doGTranslate('pt|pt');return false;" title="Português" style="text-decoration:none; font-size:28px;">🇧🇷</a> 
+  <a href="#" onclick="doGTranslate('pt|es');return false;" title="Español" style="text-decoration:none; font-size:28px;">&nbsp;🇦🇷</a> 
+  <a href="#" onclick="doGTranslate('pt|en');return false;" title="English" style="text-decoration:none; font-size:28px;">&nbsp;🇺🇸</a>
 </div>
 
 <div id="google_translate_element" style="display:none"></div>
@@ -32,11 +44,7 @@ function doGTranslate(lang_pair) {
 </script>
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-<hr style="border: 0.5px solid #333;">
-
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
-<hr>
+<hr style="border: 0.5px solid #333; margin-top: 10px;">
 
 # 🛡️ Miguel Ángel Lofredo | Cybersecurity Researcher
 

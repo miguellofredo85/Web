@@ -46,6 +46,7 @@ Minha metodologia de aprendizado baseia-se na prática constante nas plataformas
     * **[INE](https://ine.com/)** 
     * **[Pwn College](https://pwn.college/)**
     * **[Pwnedlabs](https://pwnedlabs.io/)**
+      
 ---
 
 ### 📈 Objetivos

@@ -87,7 +87,7 @@ Ao longo de mais de 4 anos de formação autodidata e certificada, consolidei um
 Atualmente, dedico-me à investigação de ameaças e à construção de ambientes controlados. Meu foco não se limita a "quebrar" sistemas, meu objetivo é compreender a arquitetura subjacente para propor mitigações eficazes.
 
 * **Foco Atual:** Expandindo minha visão para o **Blue Team (SOC)** através do HackTheBox para desenvolver uma mentalidade defensiva que complemente minhas habilidades ofensivas.
-* **Projeto atual:** [Red / Blue Active Directory homelab](https://github.com/miguellofredo85/Lab-AD-Red-Blue) Laboratório de ataque e defesa que inclui a criação de um diretório ativo (DC mais quatro Windows 10), monitorado pelo Wazuh SIEMS integrado com VirusTotal, Sysmon e Suricata - um potente sistema de detecção de intrusão de rede (IDS), sistema de prevenção de intrusão (IPS) e monitoramento de segurança de rede (NSM). Este repositório contém instruções passo a passo para que você mesmo possa montá-lo, com detalhes de cada ataque, desde a configuração no AD para que ele seja realizado, até as etapas passo a passo para atacar, prevenir e detectar (com regras para cada caso). Em constante desenvolvimento.
+* **Projeto atual:** [Red / Blue Active Directory homelab](https://github.com/miguellofredo85/Lab-AD-Red-Blue) Laboratório de ataque e defesa que inclui a criação de um diretório ativo (DC mais 3 Windows 10), monitorado pelo Wazuh SIEMS integrado com VirusTotal, Sysmon e Suricata - um potente sistema de detecção de intrusão de rede (IDS), sistema de prevenção de intrusão (IPS) e monitoramento de segurança de rede (NSM). Este repositório contém instruções passo a passo para que você mesmo possa montá-lo, com detalhes de cada ataque, desde a configuração no AD para que ele seja realizado, até as etapas passo a passo para atacar, prevenir e detectar (com regras para cada caso). Em constante desenvolvimento.
 
 ---
 
@@ -95,7 +95,7 @@ Atualmente, dedico-me à investigação de ameaças e à construção de ambient
 Possuo certificações que validam meus conhecimentos em operações de Red Team, Pentesting infra e web:
 
 
-<img width="300" height="300" alt="e3abd5d7-15b6-4319-bdff-d97390af58ed" src="https://github.com/user-attachments/assets/5ca91d24-1fb8-48fc-8e2c-c73b8a0a3243" />
+<img width="270" height="270" alt="e3abd5d7-15b6-4319-bdff-d97390af58ed" src="https://github.com/user-attachments/assets/5ca91d24-1fb8-48fc-8e2c-c73b8a0a3243" />
 <img width="300" height="300" alt="hack-the-box-certified-penetration-testing-specialist-htb-cpts" src="https://github.com/user-attachments/assets/2fdabda9-b448-440a-91ab-ed826c8aecb2" />
 <img width="300" height="300" alt="hack-the-box-certified-web-exploitation-specialist-" src="https://github.com/user-attachments/assets/9b0984cd-8a79-4b25-ba15-90416290eb75" />
 

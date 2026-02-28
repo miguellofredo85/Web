@@ -1,40 +1,37 @@
 <style>
-  /* 1. Oculta el encabezado del tema (./ y botón GitHub) */
+  /* 1. Oculta el encabezado del tema y ajusta espacio superior */
   header { display: none !important; }
-  
-  /* 2. Baja el contenido para que no esté pegado arriba */
-  .wrapper { 
-    margin-top: 0px !important; 
-    padding-top: 50px !important; 
-  }
+  .wrapper { margin-top: 0px !important; padding-top: 60px !important; }
 
-  /* 3. ELIMINA LA BARRA SUPERIOR DE GOOGLE (La que aparece al traducir) */
-  .goog-te-banner-frame.skiptranslate {
-    display: none !important;
-  }
-  
-  body {
-    top: 0px !important;
-  }
+  /* 2. BLOQUEO AGRESIVO DE LA BARRA DE GOOGLE */
+  /* Forzamos que el HTML y el Body no se desplacen hacia abajo */
+  html { top: 0px !important; }
+  body { top: 0px !important; position: static !important; }
 
-  /* 4. ELIMINA EL WIDGET "SELECT LANGUAGE" Y EL "POWERED BY" */
-  #google_translate_element, 
-  .goog-te-gadget, 
-  .goog-te-gadget-simple, 
-  .goog-te-menu-value, 
-  .goog-te-menu-frame {
-    display: none !important;
-  }
-
-  /* 5. ELIMINA EL TOOLTIP (El cuadro que sale al pasar el mouse por el texto traducido) */
-  .goog-text-highlight {
-    background: none !important;
-    box-shadow: none !important;
-  }
-  
-  #goog-gt-tt, .goog-te-balloon-frame {
+  /* Ocultamos el iframe de la barra superior */
+  .goog-te-banner-frame, 
+  .goog-te-banner-frame.skiptranslate,
+  iframe.goog-te-banner-frame {
     display: none !important;
     visibility: hidden !important;
+  }
+
+  /* 3. OCULTAR WIDGETS RESIDUALES */
+  #google_translate_element, 
+  .goog-te-gadget, 
+  .goog-te-gadget-simple,
+  .skiptranslate > iframe {
+    display: none !important;
+  }
+
+  /* 4. EVITAR EL "SUBRAYADO" Y GLOBOS DE TEXTO AL TRADUCIR */
+  #goog-gt-tt, .goog-te-balloon-frame, .goog-tooltip, .goog-tooltip:hover {
+    display: none !important;
+    visibility: hidden !important;
+  }
+  .goog-text-highlight {
+    background-color: transparent !important;
+    box-shadow: none !important;
   }
 </style>
 
@@ -62,6 +59,17 @@ function doGTranslate(lang_pair) {
     teCombo.dispatchEvent(event);
   }
 }
+  // Función para eliminar rastro de la barra de Google cada vez que se traduce
+function removeGoogleBar() {
+  var barra = document.querySelector('.goog-te-banner-frame');
+  if (barra) {
+    barra.style.display = 'none';
+  }
+  document.body.style.top = "0px";
+}
+
+// Ejecutar la limpieza periódicamente mientras se usa la página
+setInterval(removeGoogleBar, 500);
 </script>
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 

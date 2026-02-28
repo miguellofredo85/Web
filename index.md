@@ -120,6 +120,7 @@ Minha metodologia de aprendizado baseia-se na prática constante nas plataformas
 * **Plataformas que acompanham meus estudos:** *
     * **[HackTheBox](https://www.hackthebox.com/)**
     * **[TryHackMe](tryhackme.com)**
+    * **[Zero Point Security](https://www.zeropointsecurity.co.uk/)**
     * **[PortSwigger Academy](https://portswigger.net/web-security/learning-paths))**
     * **[TCM Security](https://academy.tcm-sec.com/)**
     * **[INE](https://ine.com/)** 

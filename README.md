@@ -1,6 +1,6 @@
 # 🛡️ Miguel Ángel Lofredo | Cybersecurity Researcher
 
-Bem-vindo ao meu espaço de documentação e segurança ofensiva. Sou um apaixonado por cibersegurança com foco especializado em **Pentesting de Infraestrutura (AD)** e **Segurança Web**. 
+Bem-vindo ao meu espaço de documentação e segurança ofensiva. Sou um apaixonado por cibersegurança com foco especializado em **Infraestrutura (AD)**,**Web** e **Cloud** 
 
 Ao longo de mais de 4 anos de formação autodidata e certificada, consolidei um perfil técnico orientado à resolução de problemas e à exploração ética em ciberseguranca.
 

@@ -132,6 +132,16 @@ Minha metodologia de aprendizado baseia-se na prática constante nas plataformas
     **[HackTricks](https://book.hacktricks.wiki/en/index.html)**
     **[The Hacker News](https://thehackernews.com/)**
 
+Youtubers:
+\
+    **[John Hammond](https://www.youtube.com/@_JohnHammond)** | 
+    **[S4vitar](https://www.youtube.com/@S4viSinFiltro)** | 
+    **[0xdf](https://www.youtube.com/@0xdf)** | 
+    **[Tyler Ramsbey](https://www.youtube.com/@TylerRamsbey)** |
+    **[IppSec](https://www.youtube.com/@ippsec)** | 
+    **[Ricardo Narvaja](https://www.youtube.com/@curso_Narvaja_Kazimirow)** | 
+    **[TheXSSRat](https://www.youtube.com/@TheXSSRat)**
+
 ---
 
 ### 📈 Objetivos

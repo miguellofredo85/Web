@@ -38,7 +38,8 @@ Possuo certificações que validam meus conhecimentos em operações de Red Team
 Minha metodologia de aprendizado baseia-se na prática constante nas plataformas mais exigentes do setor:
 
 * **Infraestrutura:** Criação de laboratórios próprios de AD para simular ataques, escalada de privilégios, movimentação lateral.
-* **Plataformas:** * **[HackTheBox](https://www.hackthebox.com/) & [TryHackMe](tryhackme.com):** Resolução de máquinas e Academia.
+* **Plataformas:** *
+    * **[HackTheBox](https://www.hackthebox.com/) & [TryHackMe](tryhackme.com):** Resolução de máquinas e Academia.
     * **[PortSwigger Academy](https://portswigger.net/web-security/learning-paths):** Especialização em vulnerabilidades web (Top 10 OWASP).
     * **[TCM Security](https://academy.tcm-sec.com/) & [INE](https://ine.com/):** Formação em metodologias de pentesting profissional.
     * **[PWN COLLEGE](https://pwn.college/):** Academia de explotacao de binarios e baixo nivel.

@@ -83,6 +83,7 @@ Ao longo de mais de 4 anos de formação autodidata e certificada, consolidei um
 
 ---
 
+
 ### 🚀 Sobre mim
 Atualmente, dedico-me à investigação de ameaças e à construção de ambientes controlados. Meu foco não se limita a "quebrar" sistemas, meu objetivo é compreender a arquitetura subjacente para propor mitigações eficazes.
 
@@ -90,6 +91,7 @@ Atualmente, dedico-me à investigação de ameaças e à construção de ambient
 * **Projeto atual:** [Red / Blue Active Directory homelab](https://github.com/miguellofredo85/Lab-AD-Red-Blue) Laboratório de ataque e defesa que inclui a criação de um diretório ativo (DC mais 3 Windows 10), monitorado pelo Wazuh SIEMS integrado com VirusTotal, Sysmon e Suricata - um potente sistema de detecção de intrusão de rede (IDS), sistema de prevenção de intrusão (IPS) e monitoramento de segurança de rede (NSM). Este repositório contém instruções passo a passo para que você mesmo possa montá-lo, com detalhes de cada ataque, desde a configuração no AD para que ele seja realizado, até as etapas passo a passo para atacar, prevenir e detectar (com regras para cada caso). Em constante desenvolvimento.
 
 ---
+
 
 ### 🎓 Certificações em Destaque
 Possuo certificações que validam meus conhecimentos em operações de Red Team, Pentesting infra e web:
@@ -112,6 +114,7 @@ Possuo certificações que validam meus conhecimentos em operações de Red Team
 </div>
 
 ---
+
 
 ### 🛠️ Formação Contínua
 Minha metodologia de aprendizado baseia-se na prática constante nas plataformas mais exigentes do setor tanto de praticas com maquinas, como de estudos e informacao:
@@ -144,10 +147,13 @@ Youtubers:
 
 ---
 
+
 ### 📈 Objetivos
 Minha meta é realizar a transição para o setor profissional, aportando uma mentalidade analítica e técnica. Estou convencido de que entender como o atacante pensa é a melhor forma de construir defesas.
 
 ---
+
+
 📫 **Quer entrar em contato comigo?** Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/miguelangellofredo/).
 
 

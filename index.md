@@ -91,6 +91,8 @@ Atualmente, dedico-me à investigação de ameaças e à construção de ambient
 * **Projetos:**
   - [Red / Blue Active Directory homelab](https://github.com/miguellofredo85/Lab-AD-Red-Blue) Laboratório de ataque e defesa que inclui a criação de um diretório ativo (DC mais 3 Windows 10), monitorado pelo Wazuh SIEMS integrado com VirusTotal, Sysmon e Suricata - um potente sistema de detecção de intrusão de rede (IDS), sistema de prevenção de intrusão (IPS) e monitoramento de segurança de rede (NSM). Este repositório contém instruções passo a passo para que você mesmo possa montá-lo, com detalhes de cada ataque, desde a configuração no AD para que ele seja realizado, até as etapas passo a passo para atacar, prevenir e detectar (com regras para cada caso). Em constante desenvolvimento.
   - [Phishing Campaign como acesso inicial em Red Team](https://github.com/miguellofredo85/Red-Team-Phishing-for-Initial-Access) Laboratório de configuração e ataque de phishing utilizando as ferramentas GoPhish e Evilginx. Veremos como funciona a compra de um domínio no NameCheap e utilizaremos o DigitalOcean como VPS
+
+    
 ---
 
 
